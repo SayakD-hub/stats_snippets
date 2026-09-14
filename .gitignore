@@ -1,0 +1,15 @@
+# ignore .ipynb checkpoints
+
+*.ipynb_checkpoints
+
+# UV install specific
+
+.python-version
+
+# parquet data files
+
+*.parquet
+
+#logs
+
+*.log
